@@ -1,0 +1,22 @@
+{
+  "name": "hapi-project",
+  "version": "1.0.0",
+  "description": "Hapi.js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfarix/hapi-project.git"
+  },
+  "keywords": [
+    "hapi",
+    "mfarix"
+  ],
+  "author": "Mohamed Fariz <faariz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.3.0"
+  }
+}
