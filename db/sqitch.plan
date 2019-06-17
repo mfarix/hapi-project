@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=hapiproject
+%uri=https://github.com/mfarix/hapi-project.git
+
+init 2019-06-13T16:05:29Z Mohamed Fariz Nazeer <faariz@gmail.com> # Initialize the dellstore2 database
+product-add-comments 2019-06-15T04:39:54Z Mohamed Fariz Nazeer <faariz@gmail.com> # add new column "comments" to product
